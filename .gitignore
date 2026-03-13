@@ -1,0 +1,43 @@
+# ── Paper (submitted separately to arXiv) ───────────────────────────────────
+paper/
+
+# ── Dataset files (not redistributable) ────────────────────────────────────
+# Download with: python download_vitaldb.py
+data/pulsedb_segments/
+data/ppgbp/
+data/pulsedb_info/
+data/vitaldb_needed.json
+data/vitaldb_selected.json
+
+# ── External model repos (clone separately — see README Setup) ───────────────
+# These are independent git repos; do not nest them here
+pulseppg/
+papagei-foundation-model/
+Dist-Loss/
+PulseDB/
+
+# ── Model weights (download separately — see README Setup) ──────────────────
+ppg-vascularage/model.pth
+*.pkl
+*.pt
+*.pth
+
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+
+# ── LaTeX build artifacts ────────────────────────────────────────────────────
+paper/*.pdf
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.toc
+paper/*.synctex.gz

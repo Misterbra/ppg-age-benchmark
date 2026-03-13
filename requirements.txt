@@ -1,0 +1,9 @@
+numpy
+scipy
+h5py
+scikit-learn
+torch
+matplotlib
+tqdm
+requests
+gdown

@@ -1,0 +1,1329 @@
+Found 943 VitalDB segment files
+
+--- Loading PulseDB VitalDB segments ---
+  p000001: age=48, loaded 50/916 segments
+  p000003: age=75, loaded 50/492 segments
+  p000005: age=28, loaded 50/763 segments
+  p000006: age=63, loaded 50/120 segments
+  p000008: age=66, loaded 50/264 segments
+  p000012: age=45, loaded 50/1353 segments
+  p000013: age=34, loaded 50/1273 segments
+  p000016: age=67, loaded 50/405 segments
+  p000019: age=79, loaded 50/956 segments
+  p000022: age=49, loaded 38/38 segments
+  p000023: age=64, loaded 50/201 segments
+  p000024: age=70, loaded 50/407 segments
+  p000027: age=76, loaded 9/9 segments
+  p000028: age=75, loaded 50/587 segments
+  p000030: age=48, loaded 50/822 segments
+  p000033: age=78, loaded 50/1535 segments
+  p000035: age=55, loaded 50/526 segments
+  p000037: age=71, loaded 50/116 segments
+  p000038: age=62, loaded 50/263 segments
+  p000041: age=75, loaded 50/358 segments
+  p000043: age=56, loaded 50/818 segments
+  p000047: age=61, loaded 9/9 segments
+  p000050: age=56, loaded 50/559 segments
+  p000051: age=52, loaded 50/1003 segments
+  p000052: age=44, loaded 50/639 segments
+  p000053: age=74, loaded 50/1064 segments
+  p000056: age=77, loaded 50/103 segments
+  p000058: age=68, loaded 50/360 segments
+  p000059: age=57, loaded 9/9 segments
+  p000061: age=68, loaded 50/238 segments
+  p000063: age=64, loaded 50/454 segments
+  p000064: age=53, loaded 50/1131 segments
+  p000066: age=56, loaded 50/135 segments
+  p000068: age=41, loaded 50/407 segments
+  p000071: age=35, loaded 50/380 segments
+  Error loading p000073.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p000074: age=41, loaded 50/548 segments
+  p000079: age=68, loaded 50/88 segments
+  p000085: age=63, loaded 50/283 segments
+  p000088: age=62, loaded 50/1171 segments
+  p000089: age=80, loaded 50/628 segments
+  p000093: age=64, loaded 50/628 segments
+  p000097: age=64, loaded 50/1398 segments
+  p000101: age=51, loaded 50/1240 segments
+  p000102: age=74, loaded 50/1248 segments
+  p000103: age=68, loaded 50/453 segments
+  p000107: age=54, loaded 50/370 segments
+  p000109: age=35, loaded 50/1307 segments
+  p000110: age=24, loaded 50/51 segments
+  p000111: age=54, loaded 50/704 segments
+  p000113: age=50, loaded 50/352 segments
+  p000116: age=65, loaded 7/7 segments
+  p000119: age=71, loaded 50/769 segments
+  p000120: age=76, loaded 50/637 segments
+  p000121: age=56, loaded 50/282 segments
+  p000122: age=36, loaded 50/520 segments
+  p000124: age=41, loaded 50/338 segments
+  p000128: age=64, loaded 50/856 segments
+  p000129: age=60, loaded 50/655 segments
+  p000130: age=44, loaded 50/101 segments
+  p000131: age=47, loaded 50/1991 segments
+  p000134: age=63, loaded 50/396 segments
+  p000135: age=45, loaded 50/693 segments
+  p000136: age=60, loaded 50/298 segments
+  p000137: age=56, loaded 50/293 segments
+  p000139: age=19, loaded 50/471 segments
+  p000141: age=65, loaded 50/444 segments
+  p000142: age=42, loaded 50/743 segments
+  p000143: age=72, loaded 50/482 segments
+  p000144: age=64, loaded 50/937 segments
+  p000145: age=52, loaded 50/353 segments
+  p000147: age=61, loaded 50/418 segments
+  p000149: age=49, loaded 50/990 segments
+  p000150: age=49, loaded 50/346 segments
+  p000152: age=43, loaded 50/549 segments
+  p000156: age=63, loaded 50/127 segments
+  p000158: age=74, loaded 50/175 segments
+  p000164: age=69, loaded 50/399 segments
+  p000165: age=67, loaded 50/319 segments
+  p000166: age=81, loaded 50/426 segments
+  p000167: age=74, loaded 50/707 segments
+  Error loading p000168.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p000169: age=68, loaded 50/181 segments
+  p000173: age=69, loaded 50/934 segments
+  p000174: age=58, loaded 50/1107 segments
+  p000176: age=72, loaded 50/266 segments
+  p000179: age=75, loaded 50/993 segments
+  p000181: age=43, loaded 50/898 segments
+  p000182: age=39, loaded 4/4 segments
+  p000183: age=31, loaded 50/552 segments
+  p000184: age=45, loaded 50/874 segments
+  p000185: age=24, loaded 50/447 segments
+  p000187: age=41, loaded 50/705 segments
+  p000188: age=88, loaded 50/656 segments
+  p000189: age=82, loaded 50/600 segments
+  p000192: age=56, loaded 50/393 segments
+  p000194: age=64, loaded 50/382 segments
+  p000195: age=34, loaded 50/985 segments
+  p000198: age=76, loaded 50/378 segments
+  Error loading p000202.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p000203: age=67, loaded 34/34 segments
+  p000204: age=50, loaded 50/816 segments
+  p000205: age=56, loaded 50/434 segments
+  p000206: age=72, loaded 50/1017 segments
+  p000207: age=91, loaded 50/315 segments
+  p000211: age=68, loaded 9/9 segments
+  p000213: age=55, loaded 50/189 segments
+  p000216: age=73, loaded 50/622 segments
+  p000217: age=86, loaded 47/47 segments
+  p000218: age=59, loaded 50/509 segments
+  p000220: age=40, loaded 50/745 segments
+  p000221: age=47, loaded 50/846 segments
+  p000224: age=53, loaded 50/175 segments
+  p000227: age=69, loaded 50/425 segments
+  p000228: age=64, loaded 2/2 segments
+  p000229: age=53, loaded 50/525 segments
+  p000230: age=74, loaded 50/113 segments
+  p000232: age=71, loaded 50/777 segments
+  p000234: age=73, loaded 50/713 segments
+  p000236: age=68, loaded 50/495 segments
+  p000237: age=75, loaded 4/4 segments
+  p000238: age=26, loaded 50/191 segments
+  p000241: age=71, loaded 50/1143 segments
+  p000242: age=62, loaded 50/1291 segments
+  p000244: age=86, loaded 50/537 segments
+  p000246: age=57, loaded 8/8 segments
+  p000248: age=74, loaded 50/300 segments
+  p000249: age=57, loaded 50/573 segments
+  p000251: age=62, loaded 50/482 segments
+  p000253: age=60, loaded 50/735 segments
+  p000254: age=62, loaded 50/419 segments
+  p000255: age=58, loaded 9/9 segments
+  p000257: age=52, loaded 47/47 segments
+  p000259: age=77, loaded 18/18 segments
+  p000261: age=63, loaded 50/448 segments
+  p000263: age=74, loaded 50/876 segments
+  p000266: age=61, loaded 50/744 segments
+  p000269: age=28, loaded 35/35 segments
+  p000270: age=21, loaded 2/2 segments
+  p000274: age=59, loaded 3/3 segments
+  p000275: age=63, loaded 50/54 segments
+  p000276: age=64, loaded 50/772 segments
+  p000279: age=65, loaded 50/300 segments
+  p000280: age=43, loaded 50/1507 segments
+  p000282: age=46, loaded 50/503 segments
+  p000285: age=82, loaded 50/329 segments
+  p000286: age=67, loaded 50/509 segments
+  p000287: age=81, loaded 50/260 segments
+  p000290: age=61, loaded 50/811 segments
+  p000294: age=57, loaded 6/6 segments
+  p000303: age=27, loaded 50/892 segments
+  p000304: age=43, loaded 50/515 segments
+  p000305: age=64, loaded 50/535 segments
+  p000306: age=64, loaded 50/332 segments
+  p000309: age=38, loaded 50/909 segments
+  p000310: age=56, loaded 50/1092 segments
+  p000311: age=60, loaded 50/55 segments
+  p000312: age=50, loaded 38/38 segments
+  p000316: age=46, loaded 50/601 segments
+  p000317: age=72, loaded 50/1044 segments
+  p000318: age=59, loaded 50/850 segments
+  p000319: age=63, loaded 3/3 segments
+  p000321: age=65, loaded 50/576 segments
+  p000323: age=81, loaded 50/830 segments
+  p000324: age=74, loaded 50/862 segments
+  p000326: age=66, loaded 7/7 segments
+  p000327: age=78, loaded 50/378 segments
+  p000328: age=73, loaded 50/437 segments
+  p000336: age=64, loaded 50/831 segments
+  p000340: age=37, loaded 50/988 segments
+  p000342: age=54, loaded 50/471 segments
+  p000344: age=81, loaded 50/694 segments
+  p000345: age=56, loaded 50/178 segments
+  p000346: age=53, loaded 50/1741 segments
+  p000348: age=68, loaded 50/488 segments
+  p000351: age=28, loaded 50/1069 segments
+  p000352: age=36, loaded 50/168 segments
+  p000353: age=75, loaded 50/143 segments
+  p000355: age=44, loaded 50/211 segments
+  p000356: age=58, loaded 50/73 segments
+  p000358: age=74, loaded 50/927 segments
+  p000359: age=75, loaded 50/89 segments
+  p000361: age=45, loaded 50/1065 segments
+  p000362: age=57, loaded 50/617 segments
+  p000364: age=51, loaded 50/868 segments
+  Error loading p000366.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p000368: age=64, loaded 50/905 segments
+  p000369: age=55, loaded 50/856 segments
+  p000376: age=33, loaded 50/255 segments
+  p000378: age=58, loaded 50/256 segments
+  p000379: age=61, loaded 50/75 segments
+  p000381: age=60, loaded 6/6 segments
+  Error loading p000383.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p000385: age=56, loaded 50/406 segments
+  p000386: age=66, loaded 50/843 segments
+  p000388: age=60, loaded 50/615 segments
+  p000390: age=72, loaded 50/738 segments
+  p000391: age=64, loaded 50/863 segments
+  p000394: age=51, loaded 27/27 segments
+  p000398: age=41, loaded 50/1230 segments
+  p000399: age=58, loaded 17/17 segments
+  p000400: age=62, loaded 50/422 segments
+  p000404: age=63, loaded 50/431 segments
+  p000405: age=51, loaded 50/320 segments
+  p000406: age=63, loaded 50/671 segments
+  p000407: age=59, loaded 50/1130 segments
+  p000409: age=69, loaded 50/595 segments
+  p000410: age=32, loaded 50/197 segments
+  p000412: age=76, loaded 50/215 segments
+  p000414: age=72, loaded 50/647 segments
+  p000415: age=82, loaded 50/522 segments
+  p000419: age=56, loaded 50/532 segments
+  p000422: age=68, loaded 50/636 segments
+  p000423: age=77, loaded 50/794 segments
+  p000424: age=76, loaded 50/215 segments
+  p000427: age=48, loaded 50/264 segments
+  p000430: age=63, loaded 50/1044 segments
+  p000431: age=66, loaded 50/790 segments
+  p000432: age=56, loaded 2/2 segments
+  p000441: age=77, loaded 50/635 segments
+  p000442: age=50, loaded 50/197 segments
+  p000443: age=56, loaded 50/373 segments
+  p000444: age=60, loaded 50/399 segments
+  p000449: age=58, loaded 50/385 segments
+  p000451: age=57, loaded 50/795 segments
+  p000452: age=76, loaded 31/31 segments
+  p000453: age=76, loaded 21/21 segments
+  p000454: age=60, loaded 50/966 segments
+  p000456: age=45, loaded 50/302 segments
+  p000460: age=70, loaded 50/932 segments
+  p000462: age=64, loaded 50/1255 segments
+  p000464: age=73, loaded 50/508 segments
+  p000466: age=64, loaded 46/46 segments
+  p000468: age=58, loaded 50/222 segments
+  p000473: age=48, loaded 50/612 segments
+  p000475: age=74, loaded 50/830 segments
+  p000476: age=77, loaded 50/282 segments
+  p000480: age=67, loaded 50/157 segments
+  p000483: age=63, loaded 50/693 segments
+  p000485: age=54, loaded 50/185 segments
+  p000486: age=33, loaded 50/415 segments
+  Error loading p000489.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p000490: age=55, loaded 50/318 segments
+  Error loading p000492.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p000493: age=55, loaded 2/2 segments
+  p000494: age=57, loaded 50/461 segments
+  p000495: age=57, loaded 50/428 segments
+  p000498: age=43, loaded 50/479 segments
+  p000499: age=73, loaded 50/485 segments
+  p000501: age=44, loaded 2/2 segments
+  p000502: age=69, loaded 50/882 segments
+  p000503: age=77, loaded 3/3 segments
+  p000508: age=60, loaded 50/226 segments
+  p000509: age=49, loaded 50/320 segments
+  p000510: age=50, loaded 50/428 segments
+  p000511: age=43, loaded 28/28 segments
+  p000515: age=85, loaded 50/322 segments
+  p000516: age=72, loaded 50/285 segments
+  p000517: age=70, loaded 50/69 segments
+  p000518: age=53, loaded 50/453 segments
+  p000524: age=55, loaded 50/207 segments
+  p000526: age=54, loaded 50/492 segments
+  p000527: age=37, loaded 50/942 segments
+  p000528: age=62, loaded 35/35 segments
+  p000530: age=60, loaded 50/969 segments
+  p000531: age=67, loaded 50/362 segments
+  p000536: age=65, loaded 50/209 segments
+  p000537: age=73, loaded 50/553 segments
+  p000539: age=45, loaded 50/691 segments
+  p000540: age=26, loaded 50/1002 segments
+  Error loading p000541.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p000542: age=52, loaded 50/690 segments
+  p000544: age=42, loaded 50/917 segments
+  p000545: age=45, loaded 50/614 segments
+  p000547: age=67, loaded 6/6 segments
+  p000548: age=62, loaded 50/948 segments
+  p000549: age=58, loaded 50/495 segments
+  p000550: age=64, loaded 50/181 segments
+  p000551: age=66, loaded 50/738 segments
+  Error loading p000554.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p000555: age=69, loaded 50/526 segments
+  p000556: age=49, loaded 50/321 segments
+  p000558: age=56, loaded 50/824 segments
+  p000559: age=83, loaded 50/646 segments
+  p000560: age=67, loaded 50/1138 segments
+  p000563: age=77, loaded 50/503 segments
+  p000564: age=76, loaded 50/367 segments
+  p000567: age=52, loaded 50/872 segments
+  p000568: age=78, loaded 50/645 segments
+  p000571: age=63, loaded 50/162 segments
+  p000573: age=49, loaded 50/312 segments
+  p000576: age=73, loaded 50/351 segments
+  p000581: age=65, loaded 50/535 segments
+  p000584: age=76, loaded 2/2 segments
+  p000601: age=66, loaded 36/36 segments
+  p000620: age=48, loaded 9/9 segments
+  p000621: age=76, loaded 50/410 segments
+  p000633: age=54, loaded 50/229 segments
+  p000645: age=50, loaded 50/1358 segments
+  p000652: age=64, loaded 50/515 segments
+  p000654: age=75, loaded 50/380 segments
+  p000655: age=50, loaded 10/10 segments
+  p000668: age=68, loaded 50/1106 segments
+  p000681: age=78, loaded 3/3 segments
+  p000682: age=56, loaded 50/309 segments
+  p000688: age=59, loaded 50/255 segments
+  p000765: age=59, loaded 50/1227 segments
+  p000777: age=41, loaded 15/15 segments
+  p000783: age=49, loaded 50/538 segments
+  p000792: age=61, loaded 50/247 segments
+  p000804: age=74, loaded 50/1235 segments
+  p000813: age=64, loaded 50/162 segments
+  p000821: age=46, loaded 50/533 segments
+  p000902: age=59, loaded 50/306 segments
+  p000904: age=39, loaded 50/59 segments
+  p000905: age=48, loaded 50/455 segments
+  p000946: age=60, loaded 50/1281 segments
+  p000954: age=33, loaded 50/551 segments
+  p000961: age=48, loaded 50/1095 segments
+  p000964: age=46, loaded 6/6 segments
+  p000969: age=67, loaded 50/599 segments
+  p000981: age=67, loaded 50/241 segments
+  p000985: age=52, loaded 50/364 segments
+  p001019: age=39, loaded 50/682 segments
+  p001028: age=62, loaded 35/35 segments
+  p001030: age=73, loaded 50/72 segments
+  p001033: age=49, loaded 50/657 segments
+  p001035: age=60, loaded 50/263 segments
+  p001063: age=72, loaded 50/286 segments
+  p001066: age=64, loaded 50/171 segments
+  p001071: age=42, loaded 50/927 segments
+  p001082: age=39, loaded 50/1533 segments
+  p001091: age=48, loaded 50/578 segments
+  p001093: age=63, loaded 50/1345 segments
+  p001105: age=62, loaded 35/35 segments
+  p001131: age=80, loaded 50/127 segments
+  p001182: age=36, loaded 50/1170 segments
+  p001183: age=56, loaded 50/128 segments
+  p001185: age=67, loaded 50/103 segments
+  p001186: age=77, loaded 50/384 segments
+  p001190: age=39, loaded 50/1264 segments
+  p001198: age=59, loaded 50/779 segments
+  p001208: age=76, loaded 50/505 segments
+  p001209: age=24, loaded 50/1116 segments
+  p001224: age=54, loaded 50/608 segments
+  p001241: age=49, loaded 50/112 segments
+  p001258: age=26, loaded 50/266 segments
+  p001260: age=67, loaded 50/122 segments
+  p001261: age=73, loaded 6/6 segments
+  p001280: age=69, loaded 50/540 segments
+  p001286: age=44, loaded 50/433 segments
+  p001287: age=67, loaded 50/353 segments
+  p001301: age=64, loaded 50/569 segments
+  p001326: age=20, loaded 50/895 segments
+  p001348: age=54, loaded 50/249 segments
+  p001360: age=50, loaded 50/426 segments
+  p001361: age=48, loaded 50/176 segments
+  p001365: age=71, loaded 50/922 segments
+  p001385: age=68, loaded 50/217 segments
+  p001388: age=65, loaded 50/727 segments
+  p001394: age=69, loaded 50/240 segments
+  p001397: age=26, loaded 50/291 segments
+  p001411: age=59, loaded 50/474 segments
+  p001414: age=45, loaded 50/313 segments
+  p001430: age=50, loaded 50/209 segments
+  Error loading p001434.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p001437: age=19, loaded 44/44 segments
+  p001461: age=61, loaded 50/128 segments
+  p001487: age=57, loaded 50/360 segments
+  Error loading p001502.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p001503: age=73, loaded 50/505 segments
+  p001508: age=20, loaded 50/753 segments
+  p001518: age=46, loaded 50/566 segments
+  p001524: age=71, loaded 50/57 segments
+  p001529: age=44, loaded 2/2 segments
+  p001531: age=61, loaded 50/240 segments
+  p001557: age=56, loaded 50/193 segments
+  p001558: age=79, loaded 50/403 segments
+  p001562: age=86, loaded 50/523 segments
+  p001568: age=57, loaded 50/914 segments
+  p001573: age=33, loaded 50/381 segments
+  p001588: age=56, loaded 50/761 segments
+  p001598: age=77, loaded 3/3 segments
+  p001607: age=57, loaded 50/216 segments
+  p001608: age=60, loaded 50/141 segments
+  p001642: age=56, loaded 50/495 segments
+  p001665: age=59, loaded 50/243 segments
+  p001668: age=90, loaded 50/481 segments
+  p001675: age=43, loaded 50/577 segments
+  p001693: age=47, loaded 50/144 segments
+  p001706: age=57, loaded 50/122 segments
+  p001710: age=74, loaded 50/552 segments
+  p001725: age=56, loaded 50/254 segments
+  p001731: age=69, loaded 50/335 segments
+  p001774: age=65, loaded 50/159 segments
+  p001784: age=51, loaded 50/1215 segments
+  p001803: age=61, loaded 30/30 segments
+  p001810: age=36, loaded 50/368 segments
+  p001818: age=42, loaded 50/211 segments
+  p001839: age=74, loaded 50/134 segments
+  p001868: age=51, loaded 50/787 segments
+  p001898: age=81, loaded 50/216 segments
+  p001904: age=74, loaded 2/2 segments
+  p001916: age=49, loaded 28/28 segments
+  p001917: age=59, loaded 50/205 segments
+  p001923: age=68, loaded 50/745 segments
+  p001937: age=88, loaded 3/3 segments
+  p001941: age=53, loaded 50/97 segments
+  p001963: age=74, loaded 50/464 segments
+  p001997: age=72, loaded 50/75 segments
+  p002004: age=68, loaded 50/135 segments
+  p002013: age=56, loaded 50/305 segments
+  p002033: age=57, loaded 50/1671 segments
+  p002038: age=53, loaded 50/1161 segments
+  p002043: age=42, loaded 50/978 segments
+  p002061: age=65, loaded 50/1064 segments
+  p002107: age=59, loaded 50/895 segments
+  p002129: age=72, loaded 50/450 segments
+  p002131: age=74, loaded 2/2 segments
+  p002174: age=46, loaded 50/629 segments
+  p002185: age=87, loaded 50/393 segments
+  p002190: age=75, loaded 50/884 segments
+  p002200: age=74, loaded 50/374 segments
+  p002205: age=67, loaded 50/764 segments
+  p002216: age=66, loaded 50/398 segments
+  p002224: age=48, loaded 50/124 segments
+  p002229: age=64, loaded 50/965 segments
+  p002234: age=52, loaded 50/304 segments
+  p002242: age=80, loaded 50/1437 segments
+  p002271: age=67, loaded 50/605 segments
+  Error loading p002277.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p002283: age=58, loaded 50/220 segments
+  p002284: age=53, loaded 50/576 segments
+  p002291: age=54, loaded 50/948 segments
+  p002306: age=52, loaded 50/361 segments
+  p002318: age=60, loaded 50/103 segments
+  p002320: age=63, loaded 50/946 segments
+  p002322: age=49, loaded 50/109 segments
+  p002323: age=61, loaded 33/33 segments
+  p002328: age=36, loaded 50/851 segments
+  p002329: age=59, loaded 50/164 segments
+  p002335: age=48, loaded 50/885 segments
+  p002336: age=76, loaded 50/845 segments
+  p002341: age=77, loaded 50/248 segments
+  p002342: age=54, loaded 9/9 segments
+  p002343: age=76, loaded 50/684 segments
+  p002352: age=55, loaded 50/99 segments
+  p002353: age=33, loaded 50/146 segments
+  p002355: age=67, loaded 41/41 segments
+  p002357: age=67, loaded 2/2 segments
+  p002358: age=21, loaded 50/526 segments
+  p002359: age=43, loaded 50/253 segments
+  p002361: age=42, loaded 50/586 segments
+  Error loading p002362.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p002363: age=61, loaded 50/418 segments
+  p002364: age=49, loaded 50/364 segments
+  p002365: age=40, loaded 50/314 segments
+  p002368: age=44, loaded 27/27 segments
+  p002369: age=77, loaded 50/245 segments
+  p002371: age=37, loaded 50/772 segments
+  p002372: age=42, loaded 50/1566 segments
+  Error loading p002373.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  Error loading p002374.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p002377: age=70, loaded 50/1332 segments
+  p002378: age=68, loaded 33/33 segments
+  p002379: age=42, loaded 50/449 segments
+  p002380: age=55, loaded 50/304 segments
+  p002382: age=52, loaded 50/446 segments
+  p002383: age=61, loaded 50/587 segments
+  p002384: age=63, loaded 44/44 segments
+  p002390: age=61, loaded 50/358 segments
+  p002391: age=62, loaded 50/682 segments
+  p002394: age=47, loaded 50/1284 segments
+  p002395: age=55, loaded 50/649 segments
+  p002396: age=66, loaded 50/318 segments
+  p002397: age=59, loaded 50/1781 segments
+  p002398: age=79, loaded 50/288 segments
+  p002399: age=76, loaded 50/729 segments
+  p002400: age=71, loaded 50/418 segments
+  p002402: age=58, loaded 50/574 segments
+  p002403: age=22, loaded 50/243 segments
+  p002404: age=43, loaded 50/131 segments
+  p002407: age=76, loaded 50/770 segments
+  p002410: age=77, loaded 50/375 segments
+  p002411: age=50, loaded 50/765 segments
+  p002412: age=78, loaded 10/10 segments
+  p002415: age=57, loaded 50/363 segments
+  p002417: age=56, loaded 50/228 segments
+  p002418: age=64, loaded 5/5 segments
+  p002419: age=75, loaded 50/426 segments
+  p002423: age=62, loaded 50/672 segments
+  p002424: age=74, loaded 50/767 segments
+  p002428: age=54, loaded 50/321 segments
+  p002429: age=66, loaded 50/685 segments
+  p002430: age=79, loaded 20/20 segments
+  p002431: age=54, loaded 50/180 segments
+  p002432: age=74, loaded 50/86 segments
+  p002440: age=68, loaded 50/686 segments
+  p002442: age=74, loaded 50/771 segments
+  p002444: age=60, loaded 50/1042 segments
+  p002448: age=70, loaded 50/795 segments
+  p002457: age=61, loaded 50/757 segments
+  p002458: age=70, loaded 50/458 segments
+  Error loading p002460.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  Error loading p002462.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p002463: age=70, loaded 50/902 segments
+  p002464: age=75, loaded 50/56 segments
+  p002466: age=62, loaded 50/501 segments
+  p002468: age=70, loaded 50/360 segments
+  p002469: age=58, loaded 50/518 segments
+  Error loading p002470.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p002471: age=40, loaded 50/216 segments
+  p002474: age=55, loaded 50/224 segments
+  p002475: age=62, loaded 50/741 segments
+  Error loading p002476.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p002479: age=75, loaded 50/127 segments
+  p002483: age=54, loaded 50/1698 segments
+  p002484: age=30, loaded 12/12 segments
+  p002489: age=69, loaded 41/41 segments
+  p002490: age=64, loaded 50/712 segments
+  p002491: age=83, loaded 50/648 segments
+  p002493: age=59, loaded 50/811 segments
+  p002494: age=51, loaded 50/263 segments
+  p002496: age=64, loaded 50/435 segments
+  p002497: age=60, loaded 7/7 segments
+  p002498: age=48, loaded 50/652 segments
+  p002501: age=64, loaded 50/975 segments
+  p002502: age=62, loaded 50/881 segments
+  p002503: age=44, loaded 50/469 segments
+  p002505: age=62, loaded 50/199 segments
+  p002506: age=46, loaded 3/3 segments
+  p002507: age=55, loaded 50/1868 segments
+  p002508: age=84, loaded 50/436 segments
+  p002509: age=68, loaded 50/54 segments
+  p002511: age=18, loaded 16/16 segments
+  p002519: age=69, loaded 44/44 segments
+  p002523: age=39, loaded 50/1467 segments
+  p002528: age=64, loaded 50/400 segments
+  p002539: age=35, loaded 9/9 segments
+  p002559: age=44, loaded 50/157 segments
+  p002567: age=76, loaded 12/12 segments
+  p002583: age=51, loaded 50/958 segments
+  p002584: age=46, loaded 50/156 segments
+  p002597: age=61, loaded 50/117 segments
+  p002605: age=52, loaded 49/49 segments
+  p002614: age=48, loaded 50/142 segments
+  p002631: age=60, loaded 50/113 segments
+  p002666: age=73, loaded 50/829 segments
+  p002676: age=52, loaded 50/662 segments
+  p002678: age=83, loaded 50/256 segments
+  p002693: age=28, loaded 50/414 segments
+  p002701: age=74, loaded 50/836 segments
+  p002732: age=41, loaded 50/287 segments
+  p002772: age=25, loaded 4/4 segments
+  p002777: age=57, loaded 50/168 segments
+  p002804: age=56, loaded 50/150 segments
+  p002816: age=58, loaded 2/2 segments
+  p002833: age=75, loaded 50/507 segments
+  p002864: age=65, loaded 50/416 segments
+  p002865: age=46, loaded 50/805 segments
+  p002872: age=68, loaded 50/617 segments
+  p002874: age=46, loaded 50/531 segments
+  p002887: age=39, loaded 50/189 segments
+  p002890: age=32, loaded 50/337 segments
+  p002897: age=78, loaded 50/1099 segments
+  p002898: age=59, loaded 50/768 segments
+  p002920: age=67, loaded 50/504 segments
+  p002921: age=49, loaded 50/1040 segments
+  Error loading p002923.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  Error loading p002928.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p002966: age=78, loaded 14/14 segments
+  p002970: age=34, loaded 50/76 segments
+  p002980: age=66, loaded 50/375 segments
+  p002990: age=83, loaded 50/171 segments
+  p002991: age=43, loaded 50/398 segments
+  p002997: age=70, loaded 50/371 segments
+  Error loading p003004.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  Error loading p003011.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p003039: age=49, loaded 50/343 segments
+  p003061: age=72, loaded 50/84 segments
+  p003066: age=78, loaded 50/359 segments
+  p003081: age=51, loaded 50/1286 segments
+  p003090: age=52, loaded 50/1386 segments
+  p003092: age=54, loaded 50/657 segments
+  p003112: age=89, loaded 50/451 segments
+  p003155: age=46, loaded 50/907 segments
+  p003161: age=63, loaded 50/271 segments
+  p003177: age=30, loaded 50/294 segments
+  p003224: age=53, loaded 50/861 segments
+  p003230: age=60, loaded 50/1262 segments
+  p003231: age=47, loaded 50/1656 segments
+  p003232: age=48, loaded 50/1007 segments
+  p003234: age=83, loaded 50/359 segments
+  p003237: age=22, loaded 50/243 segments
+  p003238: age=34, loaded 50/103 segments
+  p003239: age=76, loaded 50/122 segments
+  p003240: age=69, loaded 50/524 segments
+  p003241: age=73, loaded 11/11 segments
+  p003244: age=58, loaded 50/841 segments
+  p003246: age=51, loaded 50/544 segments
+  p003247: age=47, loaded 50/1259 segments
+  p003248: age=58, loaded 50/284 segments
+  p003251: age=47, loaded 50/124 segments
+  p003252: age=69, loaded 3/3 segments
+  p003254: age=58, loaded 50/125 segments
+  p003257: age=54, loaded 50/252 segments
+  p003261: age=50, loaded 50/256 segments
+  p003263: age=62, loaded 50/1016 segments
+  p003265: age=55, loaded 50/175 segments
+  p003266: age=74, loaded 50/251 segments
+  p003267: age=48, loaded 50/865 segments
+  p003270: age=61, loaded 50/146 segments
+  p003274: age=43, loaded 50/813 segments
+  p003276: age=64, loaded 50/1021 segments
+  p003279: age=71, loaded 50/661 segments
+  p003280: age=74, loaded 50/558 segments
+  p003281: age=70, loaded 50/1005 segments
+  p003283: age=70, loaded 5/5 segments
+  p003284: age=52, loaded 50/275 segments
+  p003286: age=68, loaded 7/7 segments
+  p003287: age=84, loaded 50/1087 segments
+  p003291: age=51, loaded 50/718 segments
+  p003294: age=56, loaded 50/455 segments
+  p003295: age=66, loaded 50/442 segments
+  p003297: age=58, loaded 50/205 segments
+  p003299: age=73, loaded 50/58 segments
+  p003302: age=59, loaded 50/646 segments
+  p003305: age=59, loaded 50/63 segments
+  p003308: age=44, loaded 2/2 segments
+  p003311: age=48, loaded 50/62 segments
+  p003313: age=26, loaded 50/190 segments
+  p003314: age=61, loaded 15/15 segments
+  p003315: age=64, loaded 50/207 segments
+  p003316: age=68, loaded 50/1427 segments
+  p003318: age=56, loaded 50/934 segments
+  p003320: age=42, loaded 50/525 segments
+  p003321: age=44, loaded 50/458 segments
+  p003323: age=41, loaded 50/514 segments
+  p003325: age=29, loaded 50/1171 segments
+  p003330: age=58, loaded 50/315 segments
+  p003331: age=32, loaded 50/266 segments
+  p003332: age=71, loaded 50/583 segments
+  p003335: age=22, loaded 50/281 segments
+  p003336: age=46, loaded 50/522 segments
+  p003339: age=67, loaded 5/5 segments
+  p003340: age=78, loaded 50/541 segments
+  p003342: age=75, loaded 50/766 segments
+  p003346: age=23, loaded 50/158 segments
+  p003348: age=61, loaded 50/529 segments
+  p003350: age=78, loaded 25/25 segments
+  p003354: age=55, loaded 50/840 segments
+  p003356: age=64, loaded 50/1859 segments
+  p003357: age=27, loaded 50/803 segments
+  p003376: age=57, loaded 2/2 segments
+  p003384: age=54, loaded 50/407 segments
+  p003387: age=82, loaded 50/429 segments
+  p003396: age=23, loaded 50/123 segments
+  p003400: age=33, loaded 50/740 segments
+  p003421: age=52, loaded 50/411 segments
+  p003452: age=62, loaded 50/391 segments
+  p003479: age=57, loaded 50/362 segments
+  p003490: age=67, loaded 46/46 segments
+  Error loading p003510.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p003518: age=75, loaded 50/472 segments
+  p003519: age=74, loaded 50/663 segments
+  p003523: age=52, loaded 50/1403 segments
+  p003531: age=76, loaded 50/688 segments
+  p003540: age=47, loaded 50/995 segments
+  p003566: age=52, loaded 50/290 segments
+  p003585: age=62, loaded 50/778 segments
+  p003587: age=76, loaded 50/763 segments
+  p003589: age=55, loaded 50/201 segments
+  p003593: age=60, loaded 50/794 segments
+  p003594: age=68, loaded 50/698 segments
+  p003597: age=40, loaded 50/61 segments
+  Error loading p003600.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p003602: age=58, loaded 50/2045 segments
+  p003603: age=37, loaded 26/26 segments
+  p003605: age=67, loaded 50/354 segments
+  p003608: age=72, loaded 50/718 segments
+  p003612: age=52, loaded 50/607 segments
+  p003615: age=61, loaded 50/1006 segments
+  p003626: age=63, loaded 50/267 segments
+  p003628: age=60, loaded 50/588 segments
+  p003630: age=69, loaded 50/177 segments
+  p003631: age=75, loaded 50/1057 segments
+  p003633: age=60, loaded 50/625 segments
+  p003637: age=28, loaded 50/334 segments
+  p003638: age=69, loaded 50/165 segments
+  p003639: age=42, loaded 50/308 segments
+  p003640: age=62, loaded 50/273 segments
+  p003641: age=74, loaded 3/3 segments
+  p003645: age=72, loaded 50/464 segments
+  p003648: age=47, loaded 4/4 segments
+  p003650: age=41, loaded 2/2 segments
+  p003651: age=61, loaded 50/378 segments
+  p003653: age=52, loaded 3/3 segments
+  p003655: age=71, loaded 50/1187 segments
+  p003656: age=59, loaded 50/151 segments
+  p003660: age=80, loaded 50/928 segments
+  p003661: age=50, loaded 50/882 segments
+  p003662: age=89, loaded 50/1613 segments
+  p003666: age=73, loaded 50/481 segments
+  p003672: age=68, loaded 50/298 segments
+  p003675: age=66, loaded 50/599 segments
+  p003677: age=73, loaded 50/384 segments
+  p003678: age=79, loaded 50/707 segments
+  p003679: age=63, loaded 50/270 segments
+  p003680: age=36, loaded 50/172 segments
+  p003681: age=87, loaded 50/232 segments
+  p003682: age=56, loaded 50/415 segments
+  p003684: age=73, loaded 50/1174 segments
+  p003687: age=72, loaded 50/278 segments
+  p003690: age=58, loaded 50/417 segments
+  p003697: age=57, loaded 50/100 segments
+  p003699: age=54, loaded 50/400 segments
+  p003700: age=78, loaded 50/320 segments
+  p003701: age=68, loaded 50/465 segments
+  p003702: age=55, loaded 50/231 segments
+  p003703: age=72, loaded 50/680 segments
+  p003704: age=66, loaded 50/128 segments
+  p003705: age=77, loaded 50/361 segments
+  p003713: age=56, loaded 50/283 segments
+  p003716: age=79, loaded 50/862 segments
+  p003723: age=59, loaded 50/610 segments
+  p003739: age=23, loaded 50/442 segments
+  p003752: age=56, loaded 50/1160 segments
+  p003753: age=54, loaded 37/37 segments
+  p003798: age=80, loaded 50/127 segments
+  p003821: age=67, loaded 50/841 segments
+  p003825: age=66, loaded 50/1195 segments
+  p003837: age=47, loaded 50/607 segments
+  p003842: age=70, loaded 50/169 segments
+  p003853: age=76, loaded 50/663 segments
+  p003867: age=58, loaded 50/812 segments
+  p003872: age=61, loaded 50/474 segments
+  p003893: age=40, loaded 50/787 segments
+  p003895: age=42, loaded 50/364 segments
+  p003899: age=38, loaded 50/86 segments
+  p003903: age=68, loaded 50/464 segments
+  p003907: age=46, loaded 45/45 segments
+  p003928: age=49, loaded 50/157 segments
+  p003935: age=50, loaded 50/396 segments
+  p003956: age=68, loaded 50/457 segments
+  p003957: age=58, loaded 50/326 segments
+  p003961: age=63, loaded 50/1060 segments
+  Error loading p003965.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p003966: age=47, loaded 50/751 segments
+  p003967: age=70, loaded 50/817 segments
+  p003968: age=82, loaded 50/762 segments
+  p003971: age=65, loaded 50/568 segments
+  p003973: age=59, loaded 50/59 segments
+  p003974: age=63, loaded 50/1175 segments
+  p003977: age=77, loaded 50/1082 segments
+  p003978: age=71, loaded 50/128 segments
+  p003982: age=73, loaded 50/111 segments
+  p003984: age=62, loaded 50/535 segments
+  p003985: age=81, loaded 50/815 segments
+  p003986: age=21, loaded 50/600 segments
+  p003987: age=87, loaded 50/282 segments
+  p003990: age=37, loaded 50/1706 segments
+  p003991: age=43, loaded 2/2 segments
+  p003994: age=62, loaded 50/1529 segments
+  p003996: age=42, loaded 50/403 segments
+  p003997: age=30, loaded 50/101 segments
+  p004002: age=20, loaded 50/157 segments
+  p004004: age=84, loaded 50/733 segments
+  p004007: age=72, loaded 50/1011 segments
+  p004035: age=78, loaded 50/443 segments
+  p004077: age=67, loaded 8/8 segments
+  p004099: age=75, loaded 50/468 segments
+  p004121: age=76, loaded 50/83 segments
+  p004127: age=37, loaded 2/2 segments
+  p004138: age=20, loaded 50/1231 segments
+  p004139: age=56, loaded 5/5 segments
+  p004152: age=57, loaded 50/284 segments
+  p004189: age=54, loaded 50/812 segments
+  p004193: age=29, loaded 4/4 segments
+  p004199: age=49, loaded 50/864 segments
+  p004233: age=49, loaded 50/747 segments
+  p004273: age=51, loaded 5/5 segments
+  p004285: age=68, loaded 50/265 segments
+  p004298: age=59, loaded 50/99 segments
+  p004303: age=71, loaded 21/21 segments
+  p004321: age=53, loaded 50/276 segments
+  p004326: age=71, loaded 50/393 segments
+  p004341: age=58, loaded 13/13 segments
+  p004347: age=66, loaded 50/231 segments
+  p004352: age=54, loaded 50/2248 segments
+  p004356: age=57, loaded 50/687 segments
+  p004367: age=40, loaded 50/1046 segments
+  p004375: age=55, loaded 27/27 segments
+  p004381: age=26, loaded 50/1064 segments
+  p004415: age=89, loaded 50/571 segments
+  p004429: age=77, loaded 50/361 segments
+  p004430: age=21, loaded 50/545 segments
+  p004465: age=33, loaded 50/94 segments
+  p004480: age=59, loaded 50/754 segments
+  Error loading p004507.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p004522: age=27, loaded 50/1020 segments
+  p004537: age=48, loaded 50/1147 segments
+  p004539: age=79, loaded 50/800 segments
+  p004540: age=46, loaded 50/134 segments
+  p004562: age=80, loaded 50/289 segments
+  p004563: age=43, loaded 23/23 segments
+  p004576: age=39, loaded 4/4 segments
+  p004580: age=40, loaded 50/522 segments
+  p004599: age=61, loaded 6/6 segments
+  p004603: age=18, loaded 50/378 segments
+  p004608: age=62, loaded 2/2 segments
+  p004623: age=58, loaded 50/644 segments
+  p004629: age=49, loaded 50/122 segments
+  p004634: age=22, loaded 50/519 segments
+  p004658: age=26, loaded 50/1071 segments
+  p004675: age=52, loaded 50/534 segments
+  p004692: age=56, loaded 50/519 segments
+  p004746: age=30, loaded 50/310 segments
+  p004757: age=53, loaded 6/6 segments
+  p004764: age=31, loaded 50/708 segments
+  p004772: age=75, loaded 50/1519 segments
+  p004780: age=64, loaded 50/60 segments
+  p004801: age=65, loaded 50/1499 segments
+  p004803: age=55, loaded 50/434 segments
+  p004809: age=27, loaded 50/313 segments
+  p004812: age=27, loaded 50/156 segments
+  p004821: age=45, loaded 50/384 segments
+  p004843: age=49, loaded 50/330 segments
+  p004865: age=46, loaded 50/1156 segments
+  p004883: age=56, loaded 2/2 segments
+  p004889: age=83, loaded 50/139 segments
+  p004902: age=56, loaded 50/897 segments
+  p004913: age=77, loaded 50/434 segments
+  p004941: age=44, loaded 50/66 segments
+  p004945: age=64, loaded 50/833 segments
+  p004950: age=56, loaded 2/2 segments
+  p004977: age=70, loaded 50/167 segments
+  p004978: age=70, loaded 50/593 segments
+  p004980: age=78, loaded 50/360 segments
+  p004997: age=69, loaded 2/2 segments
+  p005002: age=42, loaded 50/493 segments
+  p005030: age=35, loaded 50/719 segments
+  p005035: age=45, loaded 50/512 segments
+  p005038: age=46, loaded 50/427 segments
+  p005051: age=74, loaded 50/338 segments
+  Error loading p005057.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p005068: age=54, loaded 5/5 segments
+  p005078: age=78, loaded 50/436 segments
+  p005086: age=40, loaded 50/531 segments
+  p005126: age=82, loaded 50/1591 segments
+  p005145: age=57, loaded 50/1950 segments
+  p005166: age=64, loaded 50/554 segments
+  p005170: age=27, loaded 50/193 segments
+  p005172: age=80, loaded 50/624 segments
+  p005189: age=44, loaded 50/761 segments
+  p005192: age=27, loaded 50/1321 segments
+  p005202: age=72, loaded 50/768 segments
+  p005243: age=29, loaded 50/803 segments
+  p005246: age=57, loaded 11/11 segments
+  p005249: age=46, loaded 50/676 segments
+  p005265: age=55, loaded 50/1276 segments
+  p005282: age=32, loaded 50/882 segments
+  p005290: age=39, loaded 50/233 segments
+  p005301: age=56, loaded 12/12 segments
+  p005315: age=71, loaded 50/125 segments
+  p005325: age=48, loaded 50/204 segments
+  p005350: age=63, loaded 50/822 segments
+  p005351: age=64, loaded 50/295 segments
+  p005352: age=47, loaded 50/641 segments
+  p005355: age=44, loaded 50/1010 segments
+  p005364: age=61, loaded 50/204 segments
+  p005366: age=45, loaded 50/319 segments
+  Error loading p005367.mat: Accessing a group is done with bytes or str, not <class 'numpy.float64'>
+  p005386: age=66, loaded 50/324 segments
+  p005388: age=70, loaded 50/809 segments
+  p005391: age=74, loaded 50/494 segments
+  p005427: age=47, loaded 50/779 segments
+  p005429: age=74, loaded 9/9 segments
+  p005476: age=73, loaded 4/4 segments
+  p005480: age=62, loaded 50/51 segments
+  p005513: age=62, loaded 50/2357 segments
+  p005521: age=68, loaded 50/2311 segments
+  p005523: age=65, loaded 2/2 segments
+  p005528: age=74, loaded 50/726 segments
+  p005548: age=39, loaded 50/584 segments
+  p005549: age=52, loaded 50/631 segments
+  p005550: age=70, loaded 50/427 segments
+  p005554: age=82, loaded 50/233 segments
+  p005569: age=65, loaded 50/318 segments
+  p005573: age=70, loaded 50/1555 segments
+  p005593: age=51, loaded 50/182 segments
+  p005626: age=55, loaded 50/774 segments
+  p005630: age=67, loaded 50/299 segments
+  p005632: age=58, loaded 50/101 segments
+  p005641: age=77, loaded 50/70 segments
+  p005675: age=43, loaded 50/1062 segments
+  p005678: age=42, loaded 50/738 segments
+  p005685: age=78, loaded 50/662 segments
+  p005698: age=69, loaded 50/424 segments
+  p005740: age=31, loaded 50/401 segments
+  p005744: age=48, loaded 21/21 segments
+  p005747: age=58, loaded 50/689 segments
+  p005755: age=61, loaded 50/145 segments
+  p005792: age=37, loaded 50/535 segments
+  p005794: age=72, loaded 50/908 segments
+  p005805: age=54, loaded 50/606 segments
+  p005810: age=27, loaded 50/1034 segments
+  p005813: age=51, loaded 49/49 segments
+  p005824: age=55, loaded 50/359 segments
+  p005833: age=70, loaded 50/208 segments
+  p005859: age=66, loaded 50/413 segments
+  p005881: age=76, loaded 50/428 segments
+  p005885: age=65, loaded 50/1449 segments
+  p005891: age=65, loaded 50/266 segments
+  p005896: age=56, loaded 50/521 segments
+  p005903: age=92, loaded 50/612 segments
+  p005925: age=70, loaded 50/1074 segments
+  p005945: age=58, loaded 2/2 segments
+  p005966: age=50, loaded 50/533 segments
+  p005978: age=52, loaded 50/433 segments
+  p005980: age=35, loaded 28/28 segments
+  p005983: age=52, loaded 50/594 segments
+  p005989: age=34, loaded 50/1555 segments
+  p006000: age=53, loaded 50/354 segments
+  p006002: age=43, loaded 50/829 segments
+  p006003: age=56, loaded 50/271 segments
+  p006021: age=52, loaded 50/620 segments
+  p006031: age=57, loaded 50/869 segments
+  p006034: age=80, loaded 50/96 segments
+  p006037: age=69, loaded 50/240 segments
+  p006041: age=69, loaded 50/154 segments
+  p006042: age=65, loaded 4/4 segments
+  p006056: age=79, loaded 50/805 segments
+  p006058: age=32, loaded 50/111 segments
+  p006069: age=41, loaded 50/163 segments
+  p006080: age=64, loaded 50/647 segments
+
+Total: 41104 segments from 906 subjects
+
+--- Demographic baselines ---
+
+============================================================
+DEMOGRAPHIC BASELINES (5-fold stratified CV)
+============================================================
+
+============================================================
+MODEL: Demo: Sex only (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=11.87, subj MAE=11.91, corr=0.152
+  Fold 2: 184 subj, seg MAE=11.96, subj MAE=11.78, corr=0.128
+  Fold 3: 182 subj, seg MAE=12.01, subj MAE=11.96, corr=0.164
+  Fold 4: 180 subj, seg MAE=11.52, subj MAE=11.57, corr=0.087
+  Fold 5: 176 subj, seg MAE=11.87, subj MAE=11.84, corr=-0.033
+
+  Cross-validated results (subject-level):
+    MAE:  11.81 +/- 0.13 years
+    R2:   0.007
+    Corr: 0.087 +/- 0.071
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=27.52 (n=96)
+    40-50: MAE=12.93 (n=140)
+    50-60: MAE=3.66 (n=213)
+    60-70: MAE=5.87 (n=229)
+    70-80: MAE=15.82 (n=179)
+    80-100: MAE=25.25 (n=45)
+
+============================================================
+MODEL: Demo: Sex + BMI (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=11.90, subj MAE=11.93, corr=0.133
+  Fold 2: 184 subj, seg MAE=11.96, subj MAE=11.78, corr=0.120
+  Fold 3: 182 subj, seg MAE=12.01, subj MAE=11.96, corr=0.162
+  Fold 4: 180 subj, seg MAE=11.51, subj MAE=11.57, corr=0.085
+  Fold 5: 176 subj, seg MAE=11.88, subj MAE=11.84, corr=-0.035
+
+  Cross-validated results (subject-level):
+    MAE:  11.82 +/- 0.14 years
+    R2:   0.006
+    Corr: 0.082 +/- 0.069
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=27.55 (n=96)
+    40-50: MAE=12.93 (n=140)
+    50-60: MAE=3.66 (n=213)
+    60-70: MAE=5.87 (n=229)
+    70-80: MAE=15.83 (n=179)
+    80-100: MAE=25.22 (n=45)
+
+============================================================
+MODEL: Demo: Sex + BMI + Height + Weight (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=10.80, subj MAE=10.94, corr=0.398
+  Fold 2: 184 subj, seg MAE=9.96, subj MAE=9.86, corr=0.546
+  Fold 3: 182 subj, seg MAE=10.66, subj MAE=10.71, corr=0.489
+  Fold 4: 180 subj, seg MAE=10.48, subj MAE=10.62, corr=0.427
+  Fold 5: 176 subj, seg MAE=10.24, subj MAE=10.24, corr=0.467
+
+  Cross-validated results (subject-level):
+    MAE:  10.47 +/- 0.38 years
+    R2:   0.216
+    Corr: 0.465 +/- 0.051
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=22.11 (n=96)
+    40-50: MAE=10.06 (n=140)
+    50-60: MAE=6.00 (n=213)
+    60-70: MAE=6.60 (n=229)
+    70-80: MAE=12.14 (n=179)
+    80-100: MAE=19.41 (n=45)
+
+============================================================
+MODEL: Demo: All demographics (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=10.44, subj MAE=10.50, corr=0.464
+  Fold 2: 184 subj, seg MAE=9.69, subj MAE=9.47, corr=0.576
+  Fold 3: 182 subj, seg MAE=10.24, subj MAE=10.24, corr=0.538
+  Fold 4: 180 subj, seg MAE=10.20, subj MAE=10.24, corr=0.487
+  Fold 5: 176 subj, seg MAE=9.76, subj MAE=9.73, corr=0.535
+
+  Cross-validated results (subject-level):
+    MAE:  10.04 +/- 0.38 years
+    R2:   0.270
+    Corr: 0.519 +/- 0.040
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=21.87 (n=96)
+    40-50: MAE=9.46 (n=140)
+    50-60: MAE=5.91 (n=213)
+    60-70: MAE=6.62 (n=229)
+    70-80: MAE=11.22 (n=179)
+    80-100: MAE=16.94 (n=45)
+
+--- Extracting HR/HRV features ---
+  HR/HRV extraction: 41104/41104 segments valid (100.0%)
+
+============================================================
+MODEL: HR only (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=12.06, subj MAE=12.08, corr=0.116
+  Fold 2: 184 subj, seg MAE=12.16, subj MAE=11.98, corr=0.108
+  Fold 3: 182 subj, seg MAE=12.07, subj MAE=11.93, corr=0.111
+  Fold 4: 180 subj, seg MAE=11.49, subj MAE=11.53, corr=0.199
+  Fold 5: 176 subj, seg MAE=11.59, subj MAE=11.62, corr=0.095
+
+  Cross-validated results (subject-level):
+    MAE:  11.83 +/- 0.21 years
+    R2:   0.015
+    Corr: 0.122 +/- 0.037
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=27.13 (n=96)
+    40-50: MAE=13.17 (n=140)
+    50-60: MAE=3.63 (n=213)
+    60-70: MAE=6.04 (n=229)
+    70-80: MAE=15.78 (n=179)
+    80-100: MAE=25.47 (n=45)
+
+============================================================
+MODEL: HR + HRV (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=11.69, subj MAE=11.53, corr=0.386
+  Fold 2: 184 subj, seg MAE=11.88, subj MAE=11.65, corr=0.264
+  Fold 3: 182 subj, seg MAE=11.74, subj MAE=11.55, corr=0.298
+  Fold 4: 180 subj, seg MAE=11.32, subj MAE=11.22, corr=0.269
+  Fold 5: 176 subj, seg MAE=11.56, subj MAE=11.47, corr=0.216
+
+  Cross-validated results (subject-level):
+    MAE:  11.49 +/- 0.15 years
+    R2:   0.072
+    Corr: 0.283 +/- 0.056
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=26.38 (n=96)
+    40-50: MAE=12.53 (n=140)
+    50-60: MAE=3.75 (n=213)
+    60-70: MAE=6.17 (n=229)
+    70-80: MAE=15.13 (n=179)
+    80-100: MAE=23.51 (n=45)
+
+============================================================
+MODEL: HR/HRV + Demo (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=9.95, subj MAE=9.83, corr=0.552
+  Fold 2: 184 subj, seg MAE=9.25, subj MAE=8.99, corr=0.632
+  Fold 3: 182 subj, seg MAE=9.86, subj MAE=9.66, corr=0.590
+  Fold 4: 180 subj, seg MAE=9.80, subj MAE=9.69, corr=0.550
+  Fold 5: 176 subj, seg MAE=9.94, subj MAE=9.77, corr=0.549
+
+  Cross-validated results (subject-level):
+    MAE:  9.59 +/- 0.30 years
+    R2:   0.329
+    Corr: 0.574 +/- 0.032
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=20.82 (n=96)
+    40-50: MAE=9.10 (n=140)
+    50-60: MAE=5.79 (n=213)
+    60-70: MAE=6.43 (n=229)
+    70-80: MAE=10.65 (n=179)
+    80-100: MAE=15.41 (n=45)
+
+--- Extracting PaPaGei embeddings ---
+PaPaGei-S loaded on cpu
+PaPaGei embeddings: (41104, 512)
+
+============================================================
+MODEL: PaPaGei-S (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=10.82, subj MAE=10.20, corr=0.590
+  Fold 2: 184 subj, seg MAE=10.54, subj MAE=9.91, corr=0.584
+  Fold 3: 182 subj, seg MAE=10.58, subj MAE=10.08, corr=0.559
+  Fold 4: 180 subj, seg MAE=9.90, subj MAE=9.36, corr=0.665
+  Fold 5: 176 subj, seg MAE=10.04, subj MAE=9.41, corr=0.543
+
+  Cross-validated results (subject-level):
+    MAE:  9.80 +/- 0.34 years
+    R2:   0.313
+    Corr: 0.583 +/- 0.042
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=19.68 (n=96)
+    40-50: MAE=10.24 (n=140)
+    50-60: MAE=4.73 (n=213)
+    60-70: MAE=5.49 (n=229)
+    70-80: MAE=12.42 (n=179)
+    80-100: MAE=20.92 (n=45)
+
+--- Extracting Pulse-PPG embeddings ---
+Pulse-PPG loaded on cpu
+D:\Users\NESS\AppData\Local\Programs\Python\Python314\Lib\site-packages\torch\nn\modules\instancenorm.py:115: UserWarning: input's size at dim=1 does not match num_features. You can silence this warning by not passing in num_features, which is not used because affine=False
+  warnings.warn(
+Pulse-PPG embeddings: (41104, 512)
+
+============================================================
+MODEL: Pulse-PPG (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=10.32, subj MAE=9.63, corr=0.648
+  Fold 2: 184 subj, seg MAE=10.08, subj MAE=9.36, corr=0.652
+  Fold 3: 182 subj, seg MAE=10.33, subj MAE=9.82, corr=0.589
+  Fold 4: 180 subj, seg MAE=9.83, subj MAE=8.89, corr=0.677
+  Fold 5: 176 subj, seg MAE=9.60, subj MAE=8.66, corr=0.674
+
+  Cross-validated results (subject-level):
+    MAE:  9.28 +/- 0.44 years
+    R2:   0.388
+    Corr: 0.645 +/- 0.032
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=18.46 (n=96)
+    40-50: MAE=9.24 (n=140)
+    50-60: MAE=5.04 (n=213)
+    60-70: MAE=5.54 (n=229)
+    70-80: MAE=11.33 (n=179)
+    80-100: MAE=19.06 (n=45)
+
+--- AI-PPG Age (VascularAge) ---
+AI-PPG Age loaded on cpu (390K params)
+  Extracting beat templates...
+  Beat template extraction: 41104/41104 segments valid (100.0%)
+  Running direct age prediction (zero-shot)...
+  AI-PPG Age (zero-shot): MAE=11.50, R2=0.043, Corr=0.313
+    Pred range: 38.4 - 67.2
+    True range: 18.0 - 92.0
+  Extracting embeddings...
+  AI-PPG embeddings: (41104, 192)
+
+============================================================
+MODEL: AI-PPG Age (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=10.82, subj MAE=10.24, corr=0.597
+  Fold 2: 184 subj, seg MAE=10.30, subj MAE=9.67, corr=0.626
+  Fold 3: 182 subj, seg MAE=10.64, subj MAE=10.00, corr=0.561
+  Fold 4: 180 subj, seg MAE=9.87, subj MAE=9.20, corr=0.645
+  Fold 5: 176 subj, seg MAE=9.73, subj MAE=9.48, corr=0.429
+
+  Cross-validated results (subject-level):
+    MAE:  9.72 +/- 0.37 years
+    R2:   0.310
+    Corr: 0.563 +/- 0.076
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=18.50 (n=96)
+    40-50: MAE=9.99 (n=140)
+    50-60: MAE=5.38 (n=213)
+    60-70: MAE=5.48 (n=229)
+    70-80: MAE=11.93 (n=179)
+    80-100: MAE=21.60 (n=45)
+
+--- PPG + Demographics fusion ---
+
+============================================================
+MODEL: PaPaGei-S+Demo (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=9.17, subj MAE=8.64, corr=0.706
+  Fold 2: 184 subj, seg MAE=8.82, subj MAE=8.27, corr=0.732
+  Fold 3: 182 subj, seg MAE=9.35, subj MAE=8.94, corr=0.689
+  Fold 4: 180 subj, seg MAE=8.84, subj MAE=8.41, corr=0.704
+  Fold 5: 176 subj, seg MAE=8.91, subj MAE=8.53, corr=0.654
+
+  Cross-validated results (subject-level):
+    MAE:  8.56 +/- 0.22 years
+    R2:   0.477
+    Corr: 0.696 +/- 0.026
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=16.44 (n=96)
+    40-50: MAE=7.85 (n=140)
+    50-60: MAE=5.70 (n=213)
+    60-70: MAE=6.18 (n=229)
+    70-80: MAE=9.52 (n=179)
+    80-100: MAE=14.32 (n=45)
+
+============================================================
+MODEL: Pulse-PPG+Demo (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=8.85, subj MAE=8.16, corr=0.736
+  Fold 2: 184 subj, seg MAE=8.63, subj MAE=8.00, corr=0.752
+  Fold 3: 182 subj, seg MAE=9.12, subj MAE=8.71, corr=0.704
+  Fold 4: 180 subj, seg MAE=8.71, subj MAE=8.08, corr=0.731
+  Fold 5: 176 subj, seg MAE=8.74, subj MAE=8.17, corr=0.707
+
+  Cross-validated results (subject-level):
+    MAE:  8.22 +/- 0.25 years
+    R2:   0.517
+    Corr: 0.725 +/- 0.018
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=15.69 (n=96)
+    40-50: MAE=7.51 (n=140)
+    50-60: MAE=5.59 (n=213)
+    60-70: MAE=6.01 (n=229)
+    70-80: MAE=9.10 (n=179)
+    80-100: MAE=13.40 (n=45)
+
+============================================================
+MODEL: AI-PPG+Demo (5-fold stratified CV)
+============================================================
+  Total: 41104 segments from 906 subjects
+  Fold 1: 184 subj, seg MAE=9.27, subj MAE=8.81, corr=0.691
+  Fold 2: 184 subj, seg MAE=8.79, subj MAE=8.30, corr=0.723
+  Fold 3: 182 subj, seg MAE=9.41, subj MAE=8.93, corr=0.695
+  Fold 4: 180 subj, seg MAE=8.83, subj MAE=8.35, corr=0.705
+  Fold 5: 176 subj, seg MAE=8.63, subj MAE=8.54, corr=0.531
+
+  Cross-validated results (subject-level):
+    MAE:  8.58 +/- 0.25 years
+    R2:   0.440
+    Corr: 0.664 +/- 0.070
+    Baseline MAE (predict mean): 11.91 years
+
+  MAE by age decade:
+    20-40: MAE=15.80 (n=96)
+    40-50: MAE=8.04 (n=140)
+    50-60: MAE=5.91 (n=213)
+    60-70: MAE=6.00 (n=229)
+    70-80: MAE=9.42 (n=179)
+    80-100: MAE=15.86 (n=45)
+
+================================================================================
+Model                    Subj MAE  Subj R2   Subj Corr  Baseline
+================================================================================
+Demo: Sex only       11.81 +/- 0.13    0.007       0.087     11.91
+Demo: Sex + BMI      11.82 +/- 0.14    0.006       0.082     11.91
+Demo: Sex + BMI + Height + Weight 10.47 +/- 0.38    0.216       0.465     11.91
+Demo: All demographics 10.04 +/- 0.38    0.270       0.519     11.91
+HR only              11.83 +/- 0.21    0.015       0.122     11.91
+HR + HRV             11.49 +/- 0.15    0.072       0.283     11.91
+HR/HRV + Demo        9.59 +/- 0.30    0.329       0.574     11.91
+PaPaGei-S            9.80 +/- 0.34    0.313       0.583     11.91
+Pulse-PPG            9.28 +/- 0.44    0.388       0.645     11.91
+AI-PPG Age           9.72 +/- 0.37    0.310       0.563     11.91
+PaPaGei-S+Demo       8.56 +/- 0.22    0.477       0.696     11.91
+Pulse-PPG+Demo       8.22 +/- 0.25    0.517       0.725     11.91
+AI-PPG+Demo          8.58 +/- 0.25    0.440       0.664     11.91
+
+Plot saved: f:\Projet\Script\PPGAge\results\pulsedb_vitaldb\pulsedb_age_comparison.png
+
+--- Computing learning curve ---
+  PaPaGei-S: 20 train subj -> MAE 10.55 +/- 0.38
+  PaPaGei-S: 30 train subj -> MAE 10.71 +/- 0.45
+  PaPaGei-S: 50 train subj -> MAE 10.31 +/- 0.30
+  PaPaGei-S: 75 train subj -> MAE 10.21 +/- 0.29
+  PaPaGei-S: 100 train subj -> MAE 10.08 +/- 0.18
+  PaPaGei-S: 125 train subj -> MAE 10.05 +/- 0.12
+  PaPaGei-S: 150 train subj -> MAE 10.07 +/- 0.08
+  PaPaGei-S: 200 train subj -> MAE 10.01 +/- 0.20
+  PaPaGei-S: 250 train subj -> MAE 9.93 +/- 0.18
+  PaPaGei-S: 300 train subj -> MAE 9.80 +/- 0.19
+  PaPaGei-S: 724 train subj -> MAE 9.66 +/- 0.20
+  Pulse-PPG: 20 train subj -> MAE 10.32 +/- 0.32
+  Pulse-PPG: 30 train subj -> MAE 10.37 +/- 0.61
+  Pulse-PPG: 50 train subj -> MAE 9.85 +/- 0.39
+  Pulse-PPG: 75 train subj -> MAE 9.73 +/- 0.29
+  Pulse-PPG: 100 train subj -> MAE 9.62 +/- 0.22
+  Pulse-PPG: 125 train subj -> MAE 9.60 +/- 0.13
+  Pulse-PPG: 150 train subj -> MAE 9.53 +/- 0.10
+  Pulse-PPG: 200 train subj -> MAE 9.48 +/- 0.20
+  Pulse-PPG: 250 train subj -> MAE 9.40 +/- 0.20
+  Pulse-PPG: 300 train subj -> MAE 9.31 +/- 0.22
+  Pulse-PPG: 724 train subj -> MAE 9.21 +/- 0.21
+
+Learning curve saved: f:\Projet\Script\PPGAge\results\pulsedb_vitaldb\learning_curve.png
